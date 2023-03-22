@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @chuanzhuo
-- 👀 I’m interested in NetSuite
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on email
 - 📫 How to reach me carl.zeng@me.com 
 
 <!---
