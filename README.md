@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @chuanzhuo
-- 📫 How to reach me carl.zeng@me.com 
-
-<!---
-chuanzhuo/chuanzhuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+一分钟有多长
+是要看你蹲在厕所里面
+还是蹲在厕所外面
